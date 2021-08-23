@@ -1,0 +1,123 @@
+.topcontainer{
+  background-color: #EAF6F6;
+  text-align: center;
+  position:relative;
+  padding:100px;
+}
+h1{
+  color:#66bfbf;
+  margin:100px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size:4rem;
+}
+h2{
+  color:#66bfbf;
+  padding-bottom:10px;
+}
+h3{
+  color:#66bfbf;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+.tharun{
+  font-family: 'Lobster', cursive;
+  font-size:2rem;
+  color:#66bfbf;
+  font-weight:lighter;
+}
+body{
+  margin:0;
+  margin-bottom:0;
+  color:#40514E;
+  font-family: 'Caveat', cursive;
+  font-size:25px;
+}
+.middlecontainer{
+   text-align:center;
+   margin:100px auto 0 auto;
+}
+.bottomcontainer{
+    background-color:#66bfbf;
+    margin-top: 50px;
+    padding:30px;
+}
+hr
+{
+  border-style:dotted none none;
+  border-color:grey;
+  border-width:5px;
+  width:5%;
+  margin:100px auto;
+}
+.topcloud{
+  position: absolute;
+  top:80px;
+  right:300px;
+}
+.bottomcloud{
+  position: absolute;
+  top:400px;
+  left:340px;
+}
+.img{
+  height:250px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
+.web{
+  height:250px;
+  float: left;
+  margin-right: 20px;
+}
+.web1{
+  height:250px;
+  float:right;
+  margin-left: 20px;
+  margin-bottom:20px;
+}
+.fu{
+  margin-bottom:0;
+  color:#eaf6f6;
+  font-size:0.75rem;
+}
+.do{
+  margin:30px;
+}
+a{
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6
+}
+.mar{
+  font-size:23px;
+}
+.BUTTON_HYT {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #195ECF);
+   background-image: -moz-linear-gradient(top, #11CDD4, #195ECF);
+   background-image: -ms-linear-gradient(top, #11CDD4, #195ECF);
+   background-image: -o-linear-gradient(top, #11CDD4, #195ECF);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #195ECF);
+   border-radius: 8px;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family:'Caveat', cursive ;
+   width: 108px;
+   font-size: 16px;
+   padding: 25px;
+   border: solid #337FED 0;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.BUTTON_HYT:hover {
+   background: #30E3CB;
+}
